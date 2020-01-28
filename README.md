@@ -14,5 +14,4 @@ how to program in Java and ARM Assembly. I also enjoy working with old and obscu
 In my personal time I am always working to expand my knowledge and acquire new skills. I taught myself how to play piano
 almost 8 years ago, and have since continued to expand my musical repertoire, learning to play the bass guitar, acoustic and
 electric guitar, and harmonica. I also have a passion for learning new languages. I have explored languages like Spanish, German,
-Russian and Norwegian in the past, but have recently turned my full attention to learning Finnish. Over the past 6 months, I have
-attained a good understanding of the grammar structure and pronunciation.
+Russian and Norwegian in the past, but have recently turned my full attention to learning Finnish.
