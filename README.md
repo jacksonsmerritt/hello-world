@@ -3,7 +3,7 @@ GitHub Introductionary "Hello World" Program
 
 Hello world!
 
-My name is Jackson Merritt. I am a computer science major at Clemson University in Clemson, South Carolina.
+My name is Jackson Merritt. I am a computer information systems major at Clemson University in Clemson, South Carolina.
 Since I was a child, I could be found tinkering with and taking things apart (and almost putting them back together).
 When it comes to computer science, my biggest areas of interest are data management and analysis, cybersecurity,
 and optimization/efficency.
